@@ -1,0 +1,15 @@
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_obj\Debug\Juego Plataformas.csprojResolveAssemblyReference.cache
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\IsmaelBFH\Desktop\Unity 5\Projects Unity\Juego Plataformas\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
